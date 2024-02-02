@@ -21,7 +21,8 @@ o conteúdo da mesma.
 [ ] Reorganizar a estrutura dos elementos na página.<br>
 [ ] Organizar os textos e imagens de forma mais organizada.<br>
 [ ] Verificar se todos os links funcionam corretamente.<br>
-
+[ ] Melhorar todos os itens propostos na Análise.
+ 
 ## Análise
 
 - O Banner apresentado possui medidas não adaptadas aos tamanhos de tela superiores aos de notebook ou laptops. <br>
@@ -34,3 +35,4 @@ o conteúdo da mesma.
 - o Mesmo se repete na página de processos estetéticos. <br>
 - Tanto as massagens como os processos estéticos e tudo mais pode ser resumido em serviços prestados <br>
 - Sobre nós => os icones tampam algumas partes do texto coisa que não deveria ser afetado por que o texto deve ser potencial. 
+- o rodapé não possui um design que ajude o usuário a ter rápida e fácil compreensão. 
