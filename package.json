@@ -1,0 +1,14 @@
+{
+  "name": "espacio-elizete-tavares",
+  "version": "1.0.0",
+  "description": "Redesenho da página web do Espaço Elizete Tavares em Madrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
